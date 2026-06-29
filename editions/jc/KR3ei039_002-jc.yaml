@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR3ei039/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷二眾疾門經脈不調眾疾生焉故以次之產寶方論第一古人治婦人別著方論者以其胎妊生產崩傷之異況鬱怒倍於男子若不審其虛實而治之多致夭枉愚按前說誠為精確諺云寧治十男子莫治一婦人寧治十婦人莫治一小兒義可見矣博濟方論第二夫人將攝順理則氣血調和六淫不能為害若勞傷血氣則風冷乘之脾胃一傷飲食漸少榮衛日衰肌膚黃燥而無光澤若人大腸則下利若入關元則絕嗣故婦人病有三十六種皆由衝任勞損而致蓋衝任之脈為十二經之會海其病皆見於少陰太陽之經當於此候之愚按前論精密學者當從此類推之寇宗奭論第三婦人雖有別科然亦有不能盡聖人之法岐伯曰凡病察其形氣相得則易治形氣相失則難治又曰診病之道觀人勇怯骨肉皮膚能知其情以為診法今富貴之家身處帷幔出手診候不能盡望聞問切之情率爾投藥烏可盡其術乎況醫者質問諄諄病家遂謂業術不精而不信豈能使藥之奏效耶丹溪云凡人之形長不及短大不及小肥不及瘦人之色白不及黑嫩不及蒼厚不及薄而況肥人濕多瘦人火多白者肺氣虛黑者腎氣足形色既殊臟腑亦異外證雖同治法迥別所以肥人責脈浮瘦人責脈沉躁人疑脈緩緩人疑脈躁以其不可概觀也若夫病勢危急必須察色以觀其外診脈以知其內醫之道庶乎不至於有誤矣府庠徐道夫母胃脘當心痛極右寸關俱無左雖有微而欲絕手足厥冷余以上部無脈不吐為不治然察其眼胞上下青黯此脾虛肝木所勝以參朮茯苓陳皮甘草補中益氣以木香和胃氣行肝氣以吳茱萸散脾胃之寒止心腹之痛遂急與一劑連服二次再進諸病悉愈通用方序論第四夫通用方者蓋產前後皆可用也或一方治諸症不可入於專門當通變而施治烏可泥也加減四物湯治血虛月經不調腰腹作痛崩中漏下半產產後惡露內停或去血過多而痛方見第八卷十三論愚按血虛之症若肝脾血燥用加味逍遙散肝火血燥用八珍湯加山梔牡丹皮肝經風熱血燥用六味地黃丸肝脾火燥血虛用四物柴胡山梔肝經氣血虛弱用四君芎歸熟地腎水涸而肝血虛用六味地黃丸金剋木而肝血虛與心火亢而肝血虛亦用前丸若氣虛而血弱用補心湯胃氣陷而血虛用補中益氣湯脾氣弱而血虛用六君子湯脾氣鬱而血虛用加味歸脾湯大凡血虛之症或氣虛血弱或陽氣脫陷或大失血以致發熱煩渴等症必用四君歸耆或獨參甘溫之劑使陽旺則陰生其病自愈若用寒涼降火乃速其危也交加散治經脈不調腹中撮痛或結聚癥瘕產後中風生地黃一斤取汁生薑十二兩取汁上以地黃汁炒姜渣薑汁炒地黃渣干為末每服三錢溫酒調下芍藥玄胡索當歸蒲黃桂心各一兩沒藥紅花各五錢尤效補中丸治氣血俱虛諸症即八珍湯為丸方見二十四卷第四論附方加味歸脾湯加味逍遙散八珍湯三方見二十四卷第四論六味丸方見二十四卷第十一論四物湯四君子湯六君子湯補中益氣湯四方見二十卷第六論獨參湯方見三卷第十三論
+  hash: sha256:ca4f8bd9451fb946d92e431ad88a5799de4f0ea3ae5826839ffe6ed582185fe4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei039_jc_002-d5.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ei039_jc_002-d5d2, level: 2, head_text: 眾疾門}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ei039_jc_002-d5.d2.h1s1}
+  - {type: 'tls:div-start', offset: 17, content: '', id: KR3ei039_jc_002-d5.d2d4, level: 3, head_text: 產寶方論第一}
+  - {type: 'tls:head', offset: 17, content: '', id: KR3ei039_jc_002-d5.d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 97, content: '', id: KR3ei039_jc_002-d5.d2d4}
+  - {type: 'tls:div-start', offset: 97, content: '', id: KR3ei039_jc_002-d5.d2d5, level: 3, head_text: 博濟方論第二}
+  - {type: 'tls:head', offset: 97, content: '', id: KR3ei039_jc_002-d5.d2.d5.h1s1}
+  - {type: 'tls:div-end', offset: 223, content: '', id: KR3ei039_jc_002-d5.d2d5}
+  - {type: 'tls:div-start', offset: 223, content: '', id: KR3ei039_jc_002-d5.d2d6, level: 3, head_text: 寇宗奭論第三}
+  - {type: 'tls:head', offset: 223, content: '', id: KR3ei039_jc_002-d5.d2.d6.h1s1}
+  - {type: 'tls:div-end', offset: 582, content: '', id: KR3ei039_jc_002-d5.d2d6}
+  - {type: 'tls:div-start', offset: 582, content: '', id: KR3ei039_jc_002-d5.d2d7, level: 3, head_text: 通用方序論第四}
+  - {type: 'tls:head', offset: 582, content: '', id: KR3ei039_jc_002-d5.d2.d7.h1s1}
+  - {type: 'tls:div-start', offset: 983, content: '', id: KR3ei039_jc_002-d5.d2.d7d16, level: 4, head_text: 附方}
+  - {type: 'tls:head', offset: 983, content: '', id: KR3ei039_jc_002-d5.d2.d7.d16.h1s1}
+  - {type: 'tls:div-end', offset: 1057, content: '', id: KR3ei039_jc_002-d5.d2.d7d16}
+  - {type: 'tls:div-end', offset: 1057, content: '', id: KR3ei039_jc_002-d5.d2d7}
+  - {type: 'tls:div-end', offset: 1057, content: '', id: KR3ei039_jc_002-d5d2}
+metadata:
+  title: 校註婦人良方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei039.xml
+hash: sha256:7df302d134326f08eef8fb8cf05329e16eec917215df3b217b4edcec22232e63

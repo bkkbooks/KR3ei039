@@ -1,0 +1,7095 @@
+canonical_identifier: bkk:krp/KR3ei039/v1
+canonical_location: https://kanripo.org/bkk/KR3ei039/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 校註婦人良方
+  identifiers:
+    krp: KR3ei039
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei039.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei039_000.yaml, hash: 'sha256:519f95eda7aeba684bd4f8785dad4e2ea172e0faded77ac66d7d112ea35d34df'}
+  - {seq: 1, filename: KR3ei039_001.yaml, hash: 'sha256:dc6394717151a550239655db4f088e9e15de24c3b399758f9ab6d65e9a1e1aff'}
+  - {seq: 2, filename: KR3ei039_002.yaml, hash: 'sha256:b7795b5eb0cff0644af730b324cc46ea2643d095aab6293d795b0cffd7a45aa6'}
+  - {seq: 3, filename: KR3ei039_003.yaml, hash: 'sha256:f1f212b6d1f9b0de8c24efea2d6322a624a418d7ac8aade1eafcf1509f46fd09'}
+  - {seq: 4, filename: KR3ei039_004.yaml, hash: 'sha256:900de69b9424ab40abb8a53ac9bfc412fbc6585de1cd643283c801e1951fde2f'}
+  - {seq: 5, filename: KR3ei039_005.yaml, hash: 'sha256:14828b1637e21b07d2e8b48e68d0f0533a8bbc88d8e9db8dc0d149491c9bf29b'}
+  - {seq: 6, filename: KR3ei039_006.yaml, hash: 'sha256:838be52a841a2e062082263d527940ccf4bfa3e6bb3b3d52b7930386e5bcf6d6'}
+  - {seq: 7, filename: KR3ei039_007.yaml, hash: 'sha256:90bded0df82803b6ebe1c6c258f42bca4da307d8ecbcc20ebec1611eb6985584'}
+  - {seq: 8, filename: KR3ei039_008.yaml, hash: 'sha256:71bf8a0cd3673d59115159196c2276821f924801fa68b3f92bb2e39988d6cdde'}
+  - {seq: 9, filename: KR3ei039_009.yaml, hash: 'sha256:c908feef673f704fde7a4c94079702563df4a57accd1de7b731f69a0584351d2'}
+  - {seq: 10, filename: KR3ei039_010.yaml, hash: 'sha256:414f7709f5122f93308ca7d92dfd3f9dc991e9cf7d6e4da1f6dfee856e3de6a3'}
+  - {seq: 11, filename: KR3ei039_011.yaml, hash: 'sha256:89748c25c6a1c30139d9bdd282f42d9208e3f47031b37a72aa05479c3aee166f'}
+  - {seq: 12, filename: KR3ei039_012.yaml, hash: 'sha256:bf7a6e23c65e0dad55f1fb0913c6c7a2c4ca6dcd6d100b5a71f9a0ca582762f5'}
+  - {seq: 13, filename: KR3ei039_013.yaml, hash: 'sha256:25f0ad0dd0a4efb3e8e8e56ad355b466f474291ea27f07d85e7769d112c44996'}
+  - {seq: 14, filename: KR3ei039_014.yaml, hash: 'sha256:6e76d5944f088aa2535a5d369a963eb73f64db3827eca6d313e07e50b402c842'}
+  - {seq: 15, filename: KR3ei039_015.yaml, hash: 'sha256:96640de5ba3a7bed9c29f8ffd643bd2759840787147d6b2d81e7a02690890dc3'}
+  - {seq: 16, filename: KR3ei039_016.yaml, hash: 'sha256:720f27bc9e42c56454fe51cabed69026358e409e58847d109bff215bbd2760fc'}
+  - {seq: 17, filename: KR3ei039_017.yaml, hash: 'sha256:6c6caddc918a89faf74837dcb0bf13596b2325a95043bd1a0e866a779ccb2b6c'}
+  - {seq: 18, filename: KR3ei039_018.yaml, hash: 'sha256:7d2d823556bcea50b3f7fa1232d6dea7412dd59a2a63f792cd245bbd7e08547b'}
+  - {seq: 19, filename: KR3ei039_019.yaml, hash: 'sha256:0acabece44f0603bfacfa95649e8c12325833e0c37c8ecff46a9b9370e4856f2'}
+  - {seq: 20, filename: KR3ei039_020.yaml, hash: 'sha256:7f5cca1a8b49158c5ae685e8622969239724d56f73a301f3623cc8961ab6bb8e'}
+  - {seq: 21, filename: KR3ei039_021.yaml, hash: 'sha256:9f5ef810ad9ed3db9f0f4356ac8bc1b96dcf157e2eac7a10f0890579932a9ee2'}
+  - {seq: 22, filename: KR3ei039_022.yaml, hash: 'sha256:31f8c69db8a5956c43f9b25d8cc408c8446e383b04c5624fdceebc2e8b1344f7'}
+  - {seq: 23, filename: KR3ei039_023.yaml, hash: 'sha256:6b487e9e29114af8d538fee173d7a074e5120365b0df7f0a46657b7644e10215'}
+  - {seq: 24, filename: KR3ei039_024.yaml, hash: 'sha256:d5df48a4b3df39516d9f6e176babcfc3ec8c2dfcc425c533b72b3e23fe2c2c77'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei039_000.markers.yaml, hash: 'sha256:a64649d080d920d9410c3d550eb3e516adbdb59191b45be6a85d07b27c8a1aa3'}
+  - {seq: 1, role: markers, filename: assets/KR3ei039_001.markers.yaml, hash: 'sha256:e805d376727e6875432caa9e3bb15bcaabecdae9c67f0baeb8bcda943792e6dd'}
+  - {seq: 2, role: markers, filename: assets/KR3ei039_002.markers.yaml, hash: 'sha256:49580371af576c3fa4f6ddd2a050f939df674de54d5ef6ea1a9935ce284a2fb8'}
+  - {seq: 3, role: markers, filename: assets/KR3ei039_003.markers.yaml, hash: 'sha256:e544dc5af9e05392bb07afc5461daedbbdbf989df6c8602a7730423ff69d4707'}
+  - {seq: 4, role: markers, filename: assets/KR3ei039_004.markers.yaml, hash: 'sha256:19244e2cd671ce89186d98d781ed4694bcb025a2479e1ad5828f8211579f10c1'}
+  - {seq: 5, role: markers, filename: assets/KR3ei039_005.markers.yaml, hash: 'sha256:d0c683eb6f471a85c43cd239ce97b21274fe5d86a126478aa314d2e75dad71d9'}
+  - {seq: 6, role: markers, filename: assets/KR3ei039_006.markers.yaml, hash: 'sha256:71952c2007302e882b5eef35b33bdd1c5b9ceab96a633136e10bce3543818f8c'}
+  - {seq: 7, role: markers, filename: assets/KR3ei039_007.markers.yaml, hash: 'sha256:5d1796dcc1ec560f2e67f3c61ef1bea2f936ce4e5a434c91fb4ac7e3ef4fefc5'}
+  - {seq: 8, role: markers, filename: assets/KR3ei039_008.markers.yaml, hash: 'sha256:6a9c851dd3a0db9f91adbaff2bcc7bf6a22f25a70390d1b2d164362f62a31f00'}
+  - {seq: 9, role: markers, filename: assets/KR3ei039_009.markers.yaml, hash: 'sha256:a4afb6b9bd65c0b4dc1f6abaf84ac5fddcc60a530e44b5f5a70a737c872a1b44'}
+  - {seq: 10, role: markers, filename: assets/KR3ei039_010.markers.yaml, hash: 'sha256:f2ff33ccfe5718569fbe4cb446ca654b4409be1563e7c56b590b3b632ed7b728'}
+  - {seq: 11, role: markers, filename: assets/KR3ei039_011.markers.yaml, hash: 'sha256:e42189e4329da699fbe8e4ce7ec9c360cae3c728854d1810ee938bc6f1168cef'}
+  - {seq: 12, role: markers, filename: assets/KR3ei039_012.markers.yaml, hash: 'sha256:e12635a8c670563f06e8fa0dcf6ac83ab545c6ec4c75049fcc2977990feaf537'}
+  - {seq: 13, role: markers, filename: assets/KR3ei039_013.markers.yaml, hash: 'sha256:9173fdda8c0beb15b121b41622cccb5015be5b9b27b0565245db1715974ff02b'}
+  - {seq: 14, role: markers, filename: assets/KR3ei039_014.markers.yaml, hash: 'sha256:ec416700dffacb3051a565ed72654e5749facce471a969ae9e328b295e4a0a2b'}
+  - {seq: 15, role: markers, filename: assets/KR3ei039_015.markers.yaml, hash: 'sha256:1d11bc6247e885b4c5b5450af068adee025f3ea6a34be9a558c975839b188823'}
+  - {seq: 16, role: markers, filename: assets/KR3ei039_016.markers.yaml, hash: 'sha256:677c2eb6ba1ddc6a39d668561686e66b31b4698f4e6772f00dc89be9c6d5cd5f'}
+  - {seq: 17, role: markers, filename: assets/KR3ei039_017.markers.yaml, hash: 'sha256:23a6a44cdd04c09c109b0bef49f0abdf9e7e532d0f6018ae1351618203fbb731'}
+  - {seq: 18, role: markers, filename: assets/KR3ei039_018.markers.yaml, hash: 'sha256:6872b4a50463ca131bf5bc7779ad59bfe51cb2cf5e0010c65dcd4234d55648b5'}
+  - {seq: 19, role: markers, filename: assets/KR3ei039_019.markers.yaml, hash: 'sha256:01e037ccff3a16f42de0012d26b5711dedcb3fc3d4701dcba08b686e6e48fa59'}
+  - {seq: 20, role: markers, filename: assets/KR3ei039_020.markers.yaml, hash: 'sha256:caa744eb1dd9ef600584bad8c4e60db1c17d813d395ce6d1fc6cbd6c3567289c'}
+  - {seq: 21, role: markers, filename: assets/KR3ei039_021.markers.yaml, hash: 'sha256:8881953aae69409f24fa574b97b611a62f25a4224ee666a07749b98f1749f3aa'}
+  - {seq: 22, role: markers, filename: assets/KR3ei039_022.markers.yaml, hash: 'sha256:681ead2d98cb023a4870a07da18473f906bce4a42b187e596ec0c510f9189a8a'}
+  - {seq: 23, role: markers, filename: assets/KR3ei039_023.markers.yaml, hash: 'sha256:f3b80dae2a3d3a297f74ec9468a99f59a393f19499de7f76063dc9808ced63b9'}
+  - {seq: 24, role: markers, filename: assets/KR3ei039_024.markers.yaml, hash: 'sha256:f19eb47a1d7324b8ba94df4c6a68fe88ab87eb040d9d31cbd89b944b68b16cd4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei039_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 302
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei039_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 942
+  label: 用藥宜禁
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12461
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 12461
+  label: 調經門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d4
+    span:
+    - body
+    - 17
+    - 325
+  label: 月經序論第一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d5
+    span:
+    - body
+    - 325
+    - 1615
+  label: 精血篇論第二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d5d8
+    span:
+    - body
+    - 1196
+    - 1548
+  label: 附治驗男子陰痿精耗治驗見內科摘要
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d5d9
+    span:
+    - body
+    - 1548
+    - 1615
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d6
+    span:
+    - body
+    - 1615
+    - 1867
+  label: 產寶方序論第三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d7
+    span:
+    - body
+    - 1867
+    - 1983
+  label: 王子亨方論第四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d8
+    span:
+    - body
+    - 1983
+    - 3091
+  label: 月水不調方論第五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d8d6
+    span:
+    - body
+    - 2376
+    - 2998
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d8d7
+    span:
+    - body
+    - 2998
+    - 3091
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d9
+    span:
+    - body
+    - 3091
+    - 4251
+  label: 月經不通方論第六
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d9d6
+    span:
+    - body
+    - 3447
+    - 4162
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d9d7
+    span:
+    - body
+    - 4162
+    - 4251
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d10
+    span:
+    - body
+    - 4251
+    - 4814
+  label: 養生必用論病第七
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d11
+    span:
+    - body
+    - 4814
+    - 5007
+  label: 室女月水不通方論第八
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d11d6
+    span:
+    - body
+    - 4945
+    - 5007
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d12
+    span:
+    - body
+    - 5007
+    - 5535
+  label: 室女經閉成勞方論第九
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d12d6
+    span:
+    - body
+    - 5262
+    - 5535
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d13
+    span:
+    - body
+    - 5535
+    - 6099
+  label: 血枯方論第十
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d13d8
+    span:
+    - body
+    - 5805
+    - 5980
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d13d9
+    span:
+    - body
+    - 5980
+    - 6099
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d14
+    span:
+    - body
+    - 6099
+    - 6358
+  label: 月水不利方論第十一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d14d12
+    span:
+    - body
+    - 6320
+    - 6358
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d15
+    span:
+    - body
+    - 6358
+    - 6927
+  label: 月水行止腹痛方論第十二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d15d6
+    span:
+    - body
+    - 6483
+    - 6889
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d15d7
+    span:
+    - body
+    - 6889
+    - 6927
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d16
+    span:
+    - body
+    - 6927
+    - 7485
+  label: 月水不斷方論第十三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d16d6
+    span:
+    - body
+    - 7059
+    - 7439
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d16d7
+    span:
+    - body
+    - 7439
+    - 7485
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d17
+    span:
+    - body
+    - 7485
+    - 7711
+  label: 婦人殺血心痛方論第十四
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d17d6
+    span:
+    - body
+    - 7599
+    - 7669
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d17d7
+    span:
+    - body
+    - 7669
+    - 7711
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d18
+    span:
+    - body
+    - 7711
+    - 8756
+  label: 暴崩下血不止方論第十五
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d18d6
+    span:
+    - body
+    - 8076
+    - 8670
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d18d7
+    span:
+    - body
+    - 8670
+    - 8756
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d19
+    span:
+    - body
+    - 8756
+    - 9770
+  label: 帶下方論第十六
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d19d6
+    span:
+    - body
+    - 9195
+    - 9642
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d19d7
+    span:
+    - body
+    - 9642
+    - 9770
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d20
+    span:
+    - body
+    - 9770
+    - 10873
+  label: 崩中漏血生死脈方論第十七
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d20d6
+    span:
+    - body
+    - 9914
+    - 10684
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d20d7
+    span:
+    - body
+    - 10684
+    - 10873
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d21
+    span:
+    - body
+    - 10873
+    - 11254
+  label: 婦人白濁白淫方論第十八
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d21d6
+    span:
+    - body
+    - 11010
+    - 11207
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d21d7
+    span:
+    - body
+    - 11207
+    - 11254
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d22
+    span:
+    - body
+    - 11254
+    - 11548
+  label: 婦人天癸過期方論第十九
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d22d6
+    span:
+    - body
+    - 11384
+    - 11489
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d22d7
+    span:
+    - body
+    - 11489
+    - 11548
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2d23
+    span:
+    - body
+    - 11548
+    - 12461
+  label: 婦人血分水分腫滿方論第二十
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d23d6
+    span:
+    - body
+    - 11846
+    - 12418
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3ei039_jc_001-d4.d2.d23d7
+    span:
+    - body
+    - 12418
+    - 12461
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1057
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 1057
+  label: 眾疾門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.d2d4
+    span:
+    - body
+    - 17
+    - 97
+  label: 產寶方論第一
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.d2d5
+    span:
+    - body
+    - 97
+    - 223
+  label: 博濟方論第二
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.d2d6
+    span:
+    - body
+    - 223
+    - 582
+  label: 寇宗奭論第三
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.d2d7
+    span:
+    - body
+    - 582
+    - 1057
+  label: 通用方序論第四
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei039_jc_002-d5.d2.d7d16
+    span:
+    - body
+    - 983
+    - 1057
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 16908
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 5854
+  label: 婦人中風諸症方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d2d6
+    span:
+    - body
+    - 1050
+    - 3471
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d2d7
+    span:
+    - body
+    - 3471
+    - 5854
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d3
+    span:
+    - body
+    - 5854
+    - 6649
+  label: 婦人中風角弓反張方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d3d6
+    span:
+    - body
+    - 6207
+    - 6486
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d3d7
+    span:
+    - body
+    - 6486
+    - 6649
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d4
+    span:
+    - body
+    - 6649
+    - 7069
+  label: 婦人中風口噤方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d4d6
+    span:
+    - body
+    - 6741
+    - 7014
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d4d7
+    span:
+    - body
+    - 7014
+    - 7069
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d5
+    span:
+    - body
+    - 7069
+    - 8302
+  label: 婦人中風不語方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d5d6
+    span:
+    - body
+    - 7240
+    - 8302
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d6
+    span:
+    - body
+    - 8302
+    - 9391
+  label: 婦人風痹手足不隨方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d6d6
+    span:
+    - body
+    - 8628
+    - 9391
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d7
+    span:
+    - body
+    - 9391
+    - 9935
+  label: 婦人中風自汗方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d7d24
+    span:
+    - body
+    - 9773
+    - 9935
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d8
+    span:
+    - body
+    - 9935
+    - 10379
+  label: 婦人筋脈瘈瘲方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d8d6
+    span:
+    - body
+    - 10230
+    - 10320
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d8d7
+    span:
+    - body
+    - 10320
+    - 10379
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d9
+    span:
+    - body
+    - 10379
+    - 11351
+  label: 婦人顫振方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d9d8
+    span:
+    - body
+    - 10650
+    - 10780
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d9d9
+    span:
+    - body
+    - 10780
+    - 11291
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d9d10
+    span:
+    - body
+    - 11291
+    - 11351
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d10
+    span:
+    - body
+    - 11351
+    - 12420
+  label: 婦人風寒臂痛方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d10d6
+    span:
+    - body
+    - 11560
+    - 12257
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d10d7
+    span:
+    - body
+    - 12257
+    - 12420
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d11
+    span:
+    - body
+    - 12420
+    - 13058
+  label: 婦人賊風偏枯方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d11d6
+    span:
+    - body
+    - 12616
+    - 13027
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d11d7
+    span:
+    - body
+    - 13027
+    - 13058
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d12
+    span:
+    - body
+    - 13058
+    - 13424
+  label: 婦人偏風口喎方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d12d6
+    span:
+    - body
+    - 13119
+    - 13263
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d12d7
+    span:
+    - body
+    - 13263
+    - 13424
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d13
+    span:
+    - body
+    - 13424
+    - 14714
+  label: 婦人怔忡驚悸方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d13d6
+    span:
+    - body
+    - 13770
+    - 14714
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d14
+    span:
+    - body
+    - 14714
+    - 15268
+  label: 婦人失血心神不安方第十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d14d12
+    span:
+    - body
+    - 14943
+    - 15268
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d15
+    span:
+    - body
+    - 15268
+    - 15749
+  label: 婦人風邪顛狂方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d15d10
+    span:
+    - body
+    - 15576
+    - 15749
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6d16
+    span:
+    - body
+    - 15749
+    - 16908
+  label: 婦人飛屍血厥方論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d16d6
+    span:
+    - body
+    - 16075
+    - 16401
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei039_jc_003-d6.d16d7
+    span:
+    - body
+    - 16401
+    - 16908
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9253
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 853
+  label: 婦人血風肢體骨節疼痛方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d2d6
+    span:
+    - body
+    - 208
+    - 704
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d2d7
+    span:
+    - body
+    - 704
+    - 853
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d3
+    span:
+    - body
+    - 853
+    - 2039
+  label: 婦人血風白虎歷節走疰方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d3d6
+    span:
+    - body
+    - 1148
+    - 1794
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d3d7
+    span:
+    - body
+    - 1794
+    - 2039
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d4
+    span:
+    - body
+    - 2039
+    - 2752
+  label: 婦人血風癮疹瘙癢方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d4d6
+    span:
+    - body
+    - 2333
+    - 2651
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d4d7
+    span:
+    - body
+    - 2651
+    - 2752
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d5
+    span:
+    - body
+    - 2752
+    - 4114
+  label: 婦人虛風頭目眩暈方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d5d6
+    span:
+    - body
+    - 3218
+    - 3722
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d5d7
+    span:
+    - body
+    - 3722
+    - 4114
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d6
+    span:
+    - body
+    - 4114
+    - 5245
+  label: 婦人血風頭痛方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d6d6
+    span:
+    - body
+    - 4453
+    - 4974
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d6d7
+    span:
+    - body
+    - 4974
+    - 5245
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d7
+    span:
+    - body
+    - 5245
+    - 6019
+  label: 婦人頸項強痛方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d7d6
+    span:
+    - body
+    - 5465
+    - 5932
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d7d7
+    span:
+    - body
+    - 5932
+    - 6019
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d8
+    span:
+    - body
+    - 6019
+    - 6825
+  label: 婦人腰痛方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d8d6
+    span:
+    - body
+    - 6312
+    - 6573
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d8d7
+    span:
+    - body
+    - 6573
+    - 6825
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d9
+    span:
+    - body
+    - 6825
+    - 7596
+  label: 婦人腰腳疼痛方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d9d6
+    span:
+    - body
+    - 7063
+    - 7487
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d9d7
+    span:
+    - body
+    - 7487
+    - 7596
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7d10
+    span:
+    - body
+    - 7596
+    - 9253
+  label: 婦人風邪腳氣方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d10d6
+    span:
+    - body
+    - 8100
+    - 8507
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei039_jc_004-d7.d10d7
+    span:
+    - body
+    - 8507
+    - 9253
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 7479
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 2688
+  label: 婦人勞瘵各疰方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d2d6
+    span:
+    - body
+    - 559
+    - 689
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d2d7
+    span:
+    - body
+    - 689
+    - 2632
+  label: 二十四種蒸病論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d2d8
+    span:
+    - body
+    - 2632
+    - 2688
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d3
+    span:
+    - body
+    - 2688
+    - 5838
+  label: 婦人骨蒸勞方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d3d6
+    span:
+    - body
+    - 3299
+    - 5248
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d3d7
+    span:
+    - body
+    - 5248
+    - 5838
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d4
+    span:
+    - body
+    - 5838
+    - 6444
+  label: 婦人血風勞氣方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8.d4d6
+    span:
+    - body
+    - 6019
+    - 6444
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d5
+    span:
+    - body
+    - 6444
+    - 6565
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d6
+    span:
+    - body
+    - 6565
+    - 6997
+  label: 婦人冷勞方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei039_jc_005-d8d7
+    span:
+    - body
+    - 6997
+    - 7479
+  label: 附治驗方藥
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 11434
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 402
+  label: 婦人熱勞方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d3
+    span:
+    - body
+    - 402
+    - 1053
+  label: 附治驗
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d3d18
+    span:
+    - body
+    - 684
+    - 1053
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d4
+    span:
+    - body
+    - 1053
+    - 1433
+  label: 婦人客熱方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d4d6
+    span:
+    - body
+    - 1195
+    - 1327
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d4d7
+    span:
+    - body
+    - 1327
+    - 1433
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d5
+    span:
+    - body
+    - 1433
+    - 2049
+  label: 婦人寒熱方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d5d6
+    span:
+    - body
+    - 1577
+    - 2049
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d6
+    span:
+    - body
+    - 2049
+    - 2616
+  label: 寡婦寒熱如瘧方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d6d6
+    span:
+    - body
+    - 2252
+    - 2544
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d6d7
+    span:
+    - body
+    - 2544
+    - 2616
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d7
+    span:
+    - body
+    - 2616
+    - 2923
+  label: 婦人惡寒方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d7d6
+    span:
+    - body
+    - 2890
+    - 2923
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d8
+    span:
+    - body
+    - 2923
+    - 3039
+  label: 婦人血風煩悶方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d9
+    span:
+    - body
+    - 3039
+    - 4584
+  label: 婦人血風攻脾不食方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d9d6
+    span:
+    - body
+    - 3362
+    - 4180
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d9d7
+    span:
+    - body
+    - 4180
+    - 4584
+  label: 婦人夢與鬼交方論第八
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d10
+    span:
+    - body
+    - 4584
+    - 5082
+  label: 婦人傷寒傷風方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d11
+    span:
+    - body
+    - 5082
+    - 5657
+  label: 婦人熱入血室方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d11d6
+    span:
+    - body
+    - 5261
+    - 5595
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d11d7
+    span:
+    - body
+    - 5595
+    - 5657
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d12
+    span:
+    - body
+    - 5657
+    - 7142
+  label: 婦人咳嗽方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d12d6
+    span:
+    - body
+    - 6223
+    - 6651
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d12d7
+    span:
+    - body
+    - 6651
+    - 7142
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d13
+    span:
+    - body
+    - 7142
+    - 8103
+  label: 咳嗽用溫藥方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d14
+    span:
+    - body
+    - 8103
+    - 9191
+  label: 勞嗽方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d14d6
+    span:
+    - body
+    - 8480
+    - 8940
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d14d7
+    span:
+    - body
+    - 8940
+    - 9191
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d15
+    span:
+    - body
+    - 9191
+    - 10153
+  label: 喘滿方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d15d6
+    span:
+    - body
+    - 9578
+    - 10057
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d15d7
+    span:
+    - body
+    - 10057
+    - 10153
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d16
+    span:
+    - body
+    - 10153
+    - 10896
+  label: 婦人風痰積飲咳嗽方論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d16d6
+    span:
+    - body
+    - 10375
+    - 10732
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d16d7
+    span:
+    - body
+    - 10732
+    - 10896
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9d17
+    span:
+    - body
+    - 10896
+    - 11434
+  label: 婦人心胸嘈雜方論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d17d6
+    span:
+    - body
+    - 11029
+    - 11353
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei039_jc_006-d9.d17d7
+    span:
+    - body
+    - 11353
+    - 11434
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.h1s1
+    span:
+    - body
+    - 0
+    - 14151
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d2
+    span:
+    - body
+    - 2
+    - 1572
+  label: 婦人嘔吐方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d2d6
+    span:
+    - body
+    - 466
+    - 1450
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d2d7
+    span:
+    - body
+    - 1450
+    - 1572
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d3
+    span:
+    - body
+    - 1572
+    - 3436
+  label: 婦人霍亂方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d3d6
+    span:
+    - body
+    - 2350
+    - 2616
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d3d7
+    span:
+    - body
+    - 2616
+    - 3436
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d4
+    span:
+    - body
+    - 3436
+    - 4796
+  label: 婦人翻胃吐食方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d4d6
+    span:
+    - body
+    - 4060
+    - 4492
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d4d7
+    span:
+    - body
+    - 4492
+    - 4796
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d5
+    span:
+    - body
+    - 4796
+    - 5228
+  label: 婦人血膈方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d5d4
+    span:
+    - body
+    - 4923
+    - 5088
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d5d5
+    span:
+    - body
+    - 5088
+    - 5228
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d6
+    span:
+    - body
+    - 5228
+    - 6059
+  label: 婦人鼻血方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d6d6
+    span:
+    - body
+    - 5461
+    - 5797
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d6d7
+    span:
+    - body
+    - 5797
+    - 6059
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d7
+    span:
+    - body
+    - 6059
+    - 7479
+  label: 婦人吐血方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d7d6
+    span:
+    - body
+    - 6398
+    - 7034
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d7d7
+    span:
+    - body
+    - 7034
+    - 7479
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d8
+    span:
+    - body
+    - 7479
+    - 8750
+  label: 婦人痃癖諸氣方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d8d6
+    span:
+    - body
+    - 7646
+    - 8402
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d8d7
+    span:
+    - body
+    - 8402
+    - 8750
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d9
+    span:
+    - body
+    - 8750
+    - 9276
+  label: 婦人疝瘕方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d9d6
+    span:
+    - body
+    - 8898
+    - 9108
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d9d7
+    span:
+    - body
+    - 9108
+    - 9276
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d10
+    span:
+    - body
+    - 9276
+    - 9641
+  label: 婦人八瘕方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d11
+    span:
+    - body
+    - 9641
+    - 10323
+  label: 婦人腹中瘀血方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d11d6
+    span:
+    - body
+    - 9936
+    - 10106
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d11d7
+    span:
+    - body
+    - 10106
+    - 10186
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d11d8
+    span:
+    - body
+    - 10186
+    - 10323
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d12
+    span:
+    - body
+    - 10323
+    - 10583
+  label: 婦人癥痞方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d12d6
+    span:
+    - body
+    - 10456
+    - 10583
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d13
+    span:
+    - body
+    - 10583
+    - 10815
+  label: 婦人食癥方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d14
+    span:
+    - body
+    - 10815
+    - 11055
+  label: 婦人積年血癥方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d14d6
+    span:
+    - body
+    - 10987
+    - 11055
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d15
+    span:
+    - body
+    - 11055
+    - 11493
+  label: 婦人血氣心痛方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d15d6
+    span:
+    - body
+    - 11162
+    - 11415
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d15d7
+    span:
+    - body
+    - 11415
+    - 11493
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d16
+    span:
+    - body
+    - 11493
+    - 12220
+  label: 婦人血氣心腹疼痛方論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d16d6
+    span:
+    - body
+    - 11610
+    - 11832
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d16d7
+    span:
+    - body
+    - 11832
+    - 12220
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d17
+    span:
+    - body
+    - 12220
+    - 12540
+  label: 婦人血氣小腹疼痛方論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d17d6
+    span:
+    - body
+    - 12347
+    - 12387
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d17d7
+    span:
+    - body
+    - 12387
+    - 12540
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d18
+    span:
+    - body
+    - 12540
+    - 13496
+  label: 婦人兩脅脹痛方論第十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d18d6
+    span:
+    - body
+    - 12825
+    - 13090
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d18d7
+    span:
+    - body
+    - 13090
+    - 13496
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10d19
+    span:
+    - body
+    - 13496
+    - 14151
+  label: 婦人心腹脹滿方論第十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d19d6
+    span:
+    - body
+    - 13658
+    - 13840
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d19d7
+    span:
+    - body
+    - 13840
+    - 13984
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei039_jc_007-d10.d19d8
+    span:
+    - body
+    - 13984
+    - 14151
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.h1s1
+    span:
+    - body
+    - 0
+    - 14202
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d2
+    span:
+    - body
+    - 2
+    - 915
+  label: 婦人小便淋瀝不通方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d2d6
+    span:
+    - body
+    - 241
+    - 649
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d2d7
+    span:
+    - body
+    - 649
+    - 915
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d3
+    span:
+    - body
+    - 915
+    - 1485
+  label: 婦人轉脬小便不利方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d3d6
+    span:
+    - body
+    - 994
+    - 1485
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d4
+    span:
+    - body
+    - 1485
+    - 2037
+  label: 婦人小便數方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d4d6
+    span:
+    - body
+    - 1619
+    - 1966
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d4d7
+    span:
+    - body
+    - 1966
+    - 2037
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d5
+    span:
+    - body
+    - 2037
+    - 3485
+  label: 婦人遺尿失禁方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d5d6
+    span:
+    - body
+    - 2303
+    - 2673
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d5d7
+    span:
+    - body
+    - 2673
+    - 2738
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d5d8
+    span:
+    - body
+    - 2738
+    - 2892
+  label: 婦人小便出血方論第五
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d5d9
+    span:
+    - body
+    - 2892
+    - 3420
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d5d10
+    span:
+    - body
+    - 3420
+    - 3485
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d6
+    span:
+    - body
+    - 3485
+    - 4224
+  label: 婦人大便不通方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d6d6
+    span:
+    - body
+    - 3756
+    - 3842
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d6d7
+    span:
+    - body
+    - 3842
+    - 4127
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d6d8
+    span:
+    - body
+    - 4127
+    - 4224
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d7
+    span:
+    - body
+    - 4224
+    - 4705
+  label: 婦人老弱風人便秘戒用利藥方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d7d6
+    span:
+    - body
+    - 4479
+    - 4705
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d8
+    span:
+    - body
+    - 4705
+    - 5544
+  label: 婦人泄痢秘結方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d8d6
+    span:
+    - body
+    - 4939
+    - 5446
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d8d7
+    span:
+    - body
+    - 5446
+    - 5544
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d9
+    span:
+    - body
+    - 5544
+    - 7075
+  label: 婦人泄瀉方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d9d6
+    span:
+    - body
+    - 5823
+    - 7075
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d10
+    span:
+    - body
+    - 7075
+    - 7425
+  label: 婦人協熱下痢方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d10d6
+    span:
+    - body
+    - 7195
+    - 7379
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d10d7
+    span:
+    - body
+    - 7379
+    - 7425
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d11
+    span:
+    - body
+    - 7425
+    - 9278
+  label: 婦人滯下方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d11d6
+    span:
+    - body
+    - 7795
+    - 8291
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d11d7
+    span:
+    - body
+    - 8291
+    - 9278
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d12
+    span:
+    - body
+    - 9278
+    - 10211
+  label: 婦人痢後嘔噦方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d12d6
+    span:
+    - body
+    - 9559
+    - 10101
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d12d7
+    span:
+    - body
+    - 10101
+    - 10211
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d13
+    span:
+    - body
+    - 10211
+    - 10980
+  label: 婦人大便下血方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d13d6
+    span:
+    - body
+    - 10413
+    - 10905
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d13d7
+    span:
+    - body
+    - 10905
+    - 10980
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d14
+    span:
+    - body
+    - 10980
+    - 11353
+  label: 婦人痔瘻方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d14d14
+    span:
+    - body
+    - 11324
+    - 11353
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d15
+    span:
+    - body
+    - 11353
+    - 11770
+  label: 婦人脫肛方論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d15d6
+    span:
+    - body
+    - 11515
+    - 11662
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d15d7
+    span:
+    - body
+    - 11662
+    - 11770
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d16
+    span:
+    - body
+    - 11770
+    - 12058
+  label: 婦人陰腫方論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d16d6
+    span:
+    - body
+    - 11852
+    - 12028
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d16d7
+    span:
+    - body
+    - 12028
+    - 12058
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d17
+    span:
+    - body
+    - 12058
+    - 12422
+  label: 婦人陰癢方論第十七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d17d6
+    span:
+    - body
+    - 12138
+    - 12422
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d18
+    span:
+    - body
+    - 12422
+    - 12819
+  label: 婦人陰冷方論第十八
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d18d6
+    span:
+    - body
+    - 12574
+    - 12755
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d18d7
+    span:
+    - body
+    - 12755
+    - 12819
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d19
+    span:
+    - body
+    - 12819
+    - 13153
+  label: 婦人陰挺下脫方論第十九
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d19d6
+    span:
+    - body
+    - 12897
+    - 13105
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d19d7
+    span:
+    - body
+    - 13105
+    - 13153
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d20
+    span:
+    - body
+    - 13153
+    - 13550
+  label: 婦人陰中生瘡方論第二十
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d20d8
+    span:
+    - body
+    - 13487
+    - 13550
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d21
+    span:
+    - body
+    - 13550
+    - 13646
+  label: 婦人交接傷丈夫頭痛方第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d21d8
+    span:
+    - body
+    - 13617
+    - 13646
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d22
+    span:
+    - body
+    - 13646
+    - 13762
+  label: 女人交接輒血出痛方第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d22d10
+    span:
+    - body
+    - 13732
+    - 13762
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d23
+    span:
+    - body
+    - 13762
+    - 14114
+  label: 婦人交接他物所傷方第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11.d23d10
+    span:
+    - body
+    - 14058
+    - 14114
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei039_jc_008-d11d24
+    span:
+    - body
+    - 14114
+    - 14202
+  label: 婦人小戶嫁痛方第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.h1s1
+    span:
+    - body
+    - 0
+    - 4079
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12d2
+    span:
+    - body
+    - 2
+    - 556
+  label: 求嗣門
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d2d4
+    span:
+    - body
+    - 17
+    - 403
+  label: 陳無擇求子論第一
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d2d5
+    span:
+    - body
+    - 403
+    - 556
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12d3
+    span:
+    - body
+    - 556
+    - 4079
+  label: 褚尚書求男論第二
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d4
+    span:
+    - body
+    - 756
+    - 881
+  label: 無子論第三
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d5
+    span:
+    - body
+    - 881
+    - 1004
+  label: 千金翼求子方論第四
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d6
+    span:
+    - body
+    - 1004
+    - 1112
+  label: 交會禁忌第五
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d7
+    span:
+    - body
+    - 1112
+    - 1193
+  label: 男子受胎時日法第六
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d8
+    span:
+    - body
+    - 1193
+    - 1226
+  label: 推支幹旺相日法第七
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d9
+    span:
+    - body
+    - 1226
+    - 1585
+  label: 推每月宿日法第八
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d10
+    span:
+    - body
+    - 1585
+    - 3024
+  label: 求子服藥須知第九
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ei039_jc_009-d12.d3d11
+    span:
+    - body
+    - 3024
+    - 4079
+  label: 溫隱居求嗣保生篇第十
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.h1s1
+    span:
+    - body
+    - 0
+    - 4637
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13d2
+    span:
+    - body
+    - 2
+    - 4637
+  label: 胎教門
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d4
+    span:
+    - body
+    - 17
+    - 759
+  label: 妊娠總論第一
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d5
+    span:
+    - body
+    - 759
+    - 1173
+  label: 受形論第二
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d6
+    span:
+    - body
+    - 1173
+    - 1360
+  label: 受形篇第三
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d7
+    span:
+    - body
+    - 1360
+    - 1507
+  label: 論胎教第四
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d8
+    span:
+    - body
+    - 1507
+    - 2593
+  label: 孕元立本章第五
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d9
+    span:
+    - body
+    - 2593
+    - 3556
+  label: 凝形殊稟章第六
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d10
+    span:
+    - body
+    - 3556
+    - 4453
+  label: 氣質生成章第七
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ei039_jc_010-d13.d2d11
+    span:
+    - body
+    - 4453
+    - 4637
+  label: 轉女為男法第八
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.h1s1
+    span:
+    - body
+    - 0
+    - 2250
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14d2
+    span:
+    - body
+    - 3
+    - 2250
+  label: 候胎門
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d2
+    span:
+    - body
+    - 6
+    - 192
+  label: 脈例第一
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d3
+    span:
+    - body
+    - 192
+    - 1372
+  label: 診婦人有妊歌第二
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d4
+    span:
+    - body
+    - 1372
+    - 1414
+  label: 驗胎法第三
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d5
+    span:
+    - body
+    - 1414
+    - 1842
+  label: 胎殺避忌產前將護法第四
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d6
+    span:
+    - body
+    - 1842
+    - 2074
+  label: 食忌論第五
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ei039_jc_011-d14.d2d7
+    span:
+    - body
+    - 2074
+    - 2250
+  label: 孕婦藥忌歌第六
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.h1s1
+    span:
+    - body
+    - 0
+    - 9250
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15d2
+    span:
+    - body
+    - 3
+    - 9250
+  label: 妊娠疾病門
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d6
+    span:
+    - body
+    - 37
+    - 3071
+  label: 妊娠隨月服藥將息法第一
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d7
+    span:
+    - body
+    - 3071
+    - 3728
+  label: 妊娠惡阻方論第二
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d7d6
+    span:
+    - body
+    - 3315
+    - 3681
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d7d7
+    span:
+    - body
+    - 3681
+    - 3728
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d8
+    span:
+    - body
+    - 3728
+    - 3842
+  label: 妊娠痰逆不食方論第三
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d9
+    span:
+    - body
+    - 3842
+    - 4187
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d9d22
+    span:
+    - body
+    - 4139
+    - 4187
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d10
+    span:
+    - body
+    - 4187
+    - 4378
+  label: 胎動不安方論第四
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d11
+    span:
+    - body
+    - 4378
+    - 4811
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d11d36
+    span:
+    - body
+    - 4736
+    - 4811
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d12
+    span:
+    - body
+    - 4811
+    - 5271
+  label: 妊娠漏胎下血方論第五
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d12d6
+    span:
+    - body
+    - 5010
+    - 5271
+  label: 附治驗方藥
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d13
+    span:
+    - body
+    - 5271
+    - 5698
+  label: 妊娠卒然下血方論第六
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d13d6
+    span:
+    - body
+    - 5388
+    - 5540
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d13d7
+    span:
+    - body
+    - 5540
+    - 5698
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d14
+    span:
+    - body
+    - 5698
+    - 6204
+  label: 妊娠驚胎及僵仆方論第七
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d14d34
+    span:
+    - body
+    - 6028
+    - 6204
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d15
+    span:
+    - body
+    - 6204
+    - 6757
+  label: 妊娠胎上逼方論第八
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d15d6
+    span:
+    - body
+    - 6306
+    - 6708
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d15d7
+    span:
+    - body
+    - 6708
+    - 6757
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d16
+    span:
+    - body
+    - 6757
+    - 7221
+  label: 妊娠下如豆汁胎動腹痛方第九
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d16d4
+    span:
+    - body
+    - 6843
+    - 6986
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d16d5
+    span:
+    - body
+    - 6986
+    - 7221
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d17
+    span:
+    - body
+    - 7221
+    - 7494
+  label: 妊娠誤服毒藥胎動方論第十
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d17d18
+    span:
+    - body
+    - 7447
+    - 7494
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d18
+    span:
+    - body
+    - 7494
+    - 7868
+  label: 妊娠心痛方論第十一
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d18d6
+    span:
+    - body
+    - 7583
+    - 7824
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d18d7
+    span:
+    - body
+    - 7824
+    - 7868
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d19
+    span:
+    - body
+    - 7868
+    - 8242
+  label: 妊娠心腹痛方論第十二
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d19d6
+    span:
+    - body
+    - 7975
+    - 8192
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d19d7
+    span:
+    - body
+    - 8192
+    - 8242
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d20
+    span:
+    - body
+    - 8242
+    - 8389
+  label: 妊娠中惡方論第十三
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d21
+    span:
+    - body
+    - 8389
+    - 8726
+  label: 妊娠腰腹背痛方論第十四
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d21d6
+    span:
+    - body
+    - 8521
+    - 8665
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d21d7
+    span:
+    - body
+    - 8665
+    - 8726
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d22
+    span:
+    - body
+    - 8726
+    - 8977
+  label: 妊娠小腹痛方論第十五
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d22d6
+    span:
+    - body
+    - 8817
+    - 8977
+  label: 附治驗方藥
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2d23
+    span:
+    - body
+    - 8977
+    - 9250
+  label: 妊娠心腹脹滿方論第十六
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d23d6
+    span:
+    - body
+    - 9048
+    - 9216
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ei039_jc_012-d15.d2.d23d7
+    span:
+    - body
+    - 9216
+    - 9250
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.h1s1
+    span:
+    - body
+    - 0
+    - 4296
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d2
+    span:
+    - body
+    - 3
+    - 445
+  label: 妊娠數墮胎方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d2d6
+    span:
+    - body
+    - 224
+    - 412
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d2d7
+    span:
+    - body
+    - 412
+    - 445
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d3
+    span:
+    - body
+    - 445
+    - 717
+  label: 妊娠胎不長方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d3d6
+    span:
+    - body
+    - 515
+    - 690
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d3d7
+    span:
+    - body
+    - 690
+    - 717
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d4
+    span:
+    - body
+    - 717
+    - 1029
+  label: 妊娠胎動不安當下方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d4d6
+    span:
+    - body
+    - 799
+    - 1001
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d4d7
+    span:
+    - body
+    - 1001
+    - 1029
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d5
+    span:
+    - body
+    - 1029
+    - 1350
+  label: 妊娠墮胎後血下方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d5d6
+    span:
+    - body
+    - 1139
+    - 1281
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d5d7
+    span:
+    - body
+    - 1281
+    - 1350
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d6
+    span:
+    - body
+    - 1350
+    - 2011
+  label: 妊娠未足月欲產方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d6d6
+    span:
+    - body
+    - 1599
+    - 2011
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d7
+    span:
+    - body
+    - 2011
+    - 2247
+  label: 斷產方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d8
+    span:
+    - body
+    - 2247
+    - 3009
+  label: 妊娠咳嗽方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d8d6
+    span:
+    - body
+    - 2496
+    - 2917
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d8d7
+    span:
+    - body
+    - 2917
+    - 3009
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d9
+    span:
+    - body
+    - 3009
+    - 3457
+  label: 妊娠吐血衄血方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d9d6
+    span:
+    - body
+    - 3193
+    - 3457
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d10
+    span:
+    - body
+    - 3457
+    - 3892
+  label: 妊娠子煩方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d10d6
+    span:
+    - body
+    - 3603
+    - 3784
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d10d7
+    span:
+    - body
+    - 3784
+    - 3892
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16d11
+    span:
+    - body
+    - 3892
+    - 4296
+  label: 妊娠煩躁口乾方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d11d6
+    span:
+    - body
+    - 4041
+    - 4199
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ei039_jc_013-d16.d11d7
+    span:
+    - body
+    - 4199
+    - 4296
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.h1s1
+    span:
+    - body
+    - 0
+    - 5637
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d2
+    span:
+    - body
+    - 3
+    - 399
+  label: 妊娠中風方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d3
+    span:
+    - body
+    - 399
+    - 768
+  label: 妊娠風痙方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d3d6
+    span:
+    - body
+    - 528
+    - 689
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d3d7
+    span:
+    - body
+    - 689
+    - 768
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d4
+    span:
+    - body
+    - 768
+    - 1084
+  label: 妊娠瘈瘲方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d4d4
+    span:
+    - body
+    - 948
+    - 1084
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d5
+    span:
+    - body
+    - 1084
+    - 1589
+  label: 妊娠鬼胎方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d5d6
+    span:
+    - body
+    - 1276
+    - 1536
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d5d7
+    span:
+    - body
+    - 1536
+    - 1589
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d6
+    span:
+    - body
+    - 1589
+    - 2421
+  label: 妊娠傷寒方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d7
+    span:
+    - body
+    - 2421
+    - 2658
+  label: 妊娠時氣方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d8
+    span:
+    - body
+    - 2658
+    - 3039
+  label: 妊娠熱病方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d9
+    span:
+    - body
+    - 3039
+    - 3287
+  label: 妊娠傷寒熱病防損胎方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d10
+    span:
+    - body
+    - 3287
+    - 3540
+  label: 妊娠熱病胎死腹中方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d11
+    span:
+    - body
+    - 3540
+    - 5014
+  label: 妊娠瘧疾方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d11d6
+    span:
+    - body
+    - 3826
+    - 4213
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d11d7
+    span:
+    - body
+    - 4213
+    - 4931
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d11d8
+    span:
+    - body
+    - 4931
+    - 5014
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17d12
+    span:
+    - body
+    - 5014
+    - 5637
+  label: 妊娠霍亂方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d12d6
+    span:
+    - body
+    - 5182
+    - 5551
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ei039_jc_014-d17.d12d7
+    span:
+    - body
+    - 5551
+    - 5637
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.h1s1
+    span:
+    - body
+    - 0
+    - 5712
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d2
+    span:
+    - body
+    - 3
+    - 772
+  label: 妊娠泄瀉方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d2d6
+    span:
+    - body
+    - 378
+    - 661
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d2d7
+    span:
+    - body
+    - 661
+    - 772
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d3
+    span:
+    - body
+    - 772
+    - 1200
+  label: 妊娠下痢黃水方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d3d6
+    span:
+    - body
+    - 974
+    - 1173
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d3d7
+    span:
+    - body
+    - 1173
+    - 1200
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d4
+    span:
+    - body
+    - 1200
+    - 1808
+  label: 妊娠大小便不通方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d4d6
+    span:
+    - body
+    - 1322
+    - 1740
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d4d7
+    span:
+    - body
+    - 1740
+    - 1808
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d5
+    span:
+    - body
+    - 1808
+    - 2428
+  label: 妊娠小便不通方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d5d6
+    span:
+    - body
+    - 2041
+    - 2402
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d5d7
+    span:
+    - body
+    - 2402
+    - 2428
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d6
+    span:
+    - body
+    - 2428
+    - 3177
+  label: 妊娠子淋方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d6d6
+    span:
+    - body
+    - 2677
+    - 3060
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d6d7
+    span:
+    - body
+    - 3060
+    - 3177
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d7
+    span:
+    - body
+    - 3177
+    - 3405
+  label: 妊娠遺尿方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d7d6
+    span:
+    - body
+    - 3276
+    - 3356
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d7d7
+    span:
+    - body
+    - 3356
+    - 3405
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d8
+    span:
+    - body
+    - 3405
+    - 3808
+  label: 妊娠尿血方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d8d6
+    span:
+    - body
+    - 3549
+    - 3745
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d8d7
+    span:
+    - body
+    - 3745
+    - 3808
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d9
+    span:
+    - body
+    - 3808
+    - 4557
+  label: 妊娠胎水腫滿方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d9d6
+    span:
+    - body
+    - 4098
+    - 4504
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d9d7
+    span:
+    - body
+    - 4504
+    - 4557
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d10
+    span:
+    - body
+    - 4557
+    - 4691
+  label: 妊娠腹內鐘鳴方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d11
+    span:
+    - body
+    - 4691
+    - 4765
+  label: 龔彥德孕癰方第十
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d12
+    span:
+    - body
+    - 4765
+    - 4869
+  label: 妊娠不語論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d13
+    span:
+    - body
+    - 4869
+    - 5442
+  label: 妊娠傷食方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d13d6
+    span:
+    - body
+    - 5199
+    - 5388
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d13d7
+    span:
+    - body
+    - 5388
+    - 5442
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18d14
+    span:
+    - body
+    - 5442
+    - 5712
+  label: 妊娠臟躁悲傷方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d14d6
+    span:
+    - body
+    - 5515
+    - 5685
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ei039_jc_015-d18.d14d7
+    span:
+    - body
+    - 5685
+    - 5712
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.h1s1
+    span:
+    - body
+    - 0
+    - 4371
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19d2
+    span:
+    - body
+    - 3
+    - 4371
+  label: 坐月門
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d4
+    span:
+    - body
+    - 22
+    - 190
+  label: 產寶方周頲序第一
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d5
+    span:
+    - body
+    - 190
+    - 365
+  label: 將護孕婦論第二
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d6
+    span:
+    - body
+    - 365
+    - 988
+  label: 滑胎例第三
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d7
+    span:
+    - body
+    - 988
+    - 1038
+  label: 月空方位例第四
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d8
+    span:
+    - body
+    - 1038
+    - 1600
+  label: 逐月安產藏衣忌向方位第五
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d9
+    span:
+    - body
+    - 1600
+    - 3418
+  label: 推婦人行年法第六
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d10
+    span:
+    - body
+    - 3418
+    - 3582
+  label: 體玄子借地法第七
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d11
+    span:
+    - body
+    - 3582
+    - 3628
+  label: 禁草法第八鋪草及氈褥訖即咒曰
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d12
+    span:
+    - body
+    - 3628
+    - 3775
+  label: 禁水法第九欲產時貯水咒曰
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d13
+    span:
+    - body
+    - 3775
+    - 4072
+  label: 入月預備藥物第十
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei039_jc_016-d19.d2d14
+    span:
+    - body
+    - 4072
+    - 4371
+  label: 催生靈符第十一
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.h1s1
+    span:
+    - body
+    - 0
+    - 4246
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20d2
+    span:
+    - body
+    - 3
+    - 4246
+  label: 產難門
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d4
+    span:
+    - body
+    - 18
+    - 604
+  label: 產難論第一
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d4d6
+    span:
+    - body
+    - 396
+    - 604
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d5
+    span:
+    - body
+    - 604
+    - 1419
+  label: 楊子建十產論第二
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d4
+    span:
+    - body
+    - 654
+    - 688
+  label: 一曰正產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d5
+    span:
+    - body
+    - 688
+    - 755
+  label: 二曰傷產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d6
+    span:
+    - body
+    - 755
+    - 798
+  label: 三曰催生
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d7
+    span:
+    - body
+    - 798
+    - 839
+  label: 四曰凍產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d8
+    span:
+    - body
+    - 839
+    - 897
+  label: 五曰熱產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d9
+    span:
+    - body
+    - 897
+    - 964
+  label: 六曰橫產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d10
+    span:
+    - body
+    - 964
+    - 1027
+  label: 七曰倒產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d11
+    span:
+    - body
+    - 1027
+    - 1125
+  label: 八曰偏產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d12
+    span:
+    - body
+    - 1125
+    - 1193
+  label: 九曰礙產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d13
+    span:
+    - body
+    - 1193
+    - 1237
+  label: 十曰坐產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d5d14
+    span:
+    - body
+    - 1237
+    - 1419
+  label: 十一曰盤腸產
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d6
+    span:
+    - body
+    - 1419
+    - 2321
+  label: 催生方論第三
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d7
+    span:
+    - body
+    - 2321
+    - 2929
+  label: 交骨不開產門不閉方論第四新附
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d7d4
+    span:
+    - body
+    - 2401
+    - 2899
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d7d5
+    span:
+    - body
+    - 2899
+    - 2929
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d8
+    span:
+    - body
+    - 2929
+    - 3077
+  label: 郭稽中產難方論第五
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2d9
+    span:
+    - body
+    - 3077
+    - 4246
+  label: 產難子死腹中方論第六
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d9d4
+    span:
+    - body
+    - 3148
+    - 3376
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d9d5
+    span:
+    - body
+    - 3376
+    - 3394
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 17
+    marker_id: KR3ei039_jc_017-d20.d2.d9d6
+    span:
+    - body
+    - 3394
+    - 4246
+  label: 產難生死訣第七
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.h1s1
+    span:
+    - body
+    - 0
+    - 2923
+  label: 卷十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21d2
+    span:
+    - body
+    - 3
+    - 2923
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d4
+    span:
+    - body
+    - 20
+    - 249
+  label: 產後將護法第一
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d5
+    span:
+    - body
+    - 249
+    - 528
+  label: 產後調理法第二
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d6
+    span:
+    - body
+    - 528
+    - 556
+  label: 產後通用方第三
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d7
+    span:
+    - body
+    - 556
+    - 1187
+  label: 胞衣不出方論第四
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d7d6
+    span:
+    - body
+    - 704
+    - 1015
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d7d7
+    span:
+    - body
+    - 1015
+    - 1187
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d8
+    span:
+    - body
+    - 1187
+    - 1860
+  label: 產後血暈方論第五
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d8d6
+    span:
+    - body
+    - 1373
+    - 1803
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d8d7
+    span:
+    - body
+    - 1803
+    - 1860
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d9
+    span:
+    - body
+    - 1860
+    - 2110
+  label: 產後顛狂方論第六
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d9d6
+    span:
+    - body
+    - 1958
+    - 2068
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d9d7
+    span:
+    - body
+    - 2068
+    - 2110
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d10
+    span:
+    - body
+    - 2110
+    - 2367
+  label: 產後狂言譫語方論第七
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d10d6
+    span:
+    - body
+    - 2194
+    - 2328
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d10d7
+    span:
+    - body
+    - 2328
+    - 2367
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2d11
+    span:
+    - body
+    - 2367
+    - 2923
+  label: 產後不語方論第八
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d11d6
+    span:
+    - body
+    - 2602
+    - 2811
+  label: 附治驗
+  type: section
+  level: 4
+- ref:
+    seq: 18
+    marker_id: KR3ei039_jc_018-d21.d2.d11d7
+    span:
+    - body
+    - 2811
+    - 2923
+  label: 附方
+  type: section
+  level: 4
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.h1s1
+    span:
+    - body
+    - 0
+    - 5497
+  label: 卷十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d2
+    span:
+    - body
+    - 3
+    - 371
+  label: 產後乍見鬼神方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d2d6
+    span:
+    - body
+    - 158
+    - 342
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d2d7
+    span:
+    - body
+    - 342
+    - 371
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d3
+    span:
+    - body
+    - 371
+    - 781
+  label: 產後心神驚悸方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d3d6
+    span:
+    - body
+    - 468
+    - 734
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d3d7
+    span:
+    - body
+    - 734
+    - 781
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d4
+    span:
+    - body
+    - 781
+    - 1240
+  label: 產後中風心驚方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d4d6
+    span:
+    - body
+    - 932
+    - 1204
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d4d7
+    span:
+    - body
+    - 1204
+    - 1240
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d5
+    span:
+    - body
+    - 1240
+    - 1545
+  label: 產後中風恍惚方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d5d6
+    span:
+    - body
+    - 1322
+    - 1520
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d5d7
+    span:
+    - body
+    - 1520
+    - 1545
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d6
+    span:
+    - body
+    - 1545
+    - 1960
+  label: 產後虛極生風方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d6d6
+    span:
+    - body
+    - 1659
+    - 1868
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d6d7
+    span:
+    - body
+    - 1868
+    - 1960
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d7
+    span:
+    - body
+    - 1960
+    - 2741
+  label: 產後虛汗不止方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d7d6
+    span:
+    - body
+    - 2133
+    - 2482
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d7d7
+    span:
+    - body
+    - 2482
+    - 2741
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d8
+    span:
+    - body
+    - 2741
+    - 2984
+  label: 產後冒悶汗出方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d9
+    span:
+    - body
+    - 2984
+    - 3443
+  label: 產後汗多變痙方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d9d6
+    span:
+    - body
+    - 3184
+    - 3443
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d10
+    span:
+    - body
+    - 3443
+    - 3787
+  label: 產後口噤腰背反張方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d11
+    span:
+    - body
+    - 3787
+    - 4079
+  label: 產後中風方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d12
+    span:
+    - body
+    - 4079
+    - 4391
+  label: 產後四肢筋攣方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d12d6
+    span:
+    - body
+    - 4198
+    - 4391
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d13
+    span:
+    - body
+    - 4391
+    - 5207
+  label: 產後瘛瘲方論第十二新附
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d13d4
+    span:
+    - body
+    - 4648
+    - 4878
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d13d5
+    span:
+    - body
+    - 4878
+    - 5207
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22d14
+    span:
+    - body
+    - 5207
+    - 5497
+  label: 產後腳氣方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ei039_jc_019-d22.d14d6
+    span:
+    - body
+    - 5331
+    - 5497
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.h1s1
+    span:
+    - body
+    - 0
+    - 4696
+  label: 卷二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d2
+    span:
+    - body
+    - 3
+    - 388
+  label: 產後遍身疼痛方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d2d6
+    span:
+    - body
+    - 152
+    - 350
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d2d7
+    span:
+    - body
+    - 350
+    - 388
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d3
+    span:
+    - body
+    - 388
+    - 940
+  label: 產後腰痛方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d3d6
+    span:
+    - body
+    - 481
+    - 799
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d3d7
+    span:
+    - body
+    - 799
+    - 940
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d4
+    span:
+    - body
+    - 940
+    - 1386
+  label: 產後惡露不絕方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d4d6
+    span:
+    - body
+    - 1090
+    - 1309
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d4d7
+    span:
+    - body
+    - 1309
+    - 1386
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d5
+    span:
+    - body
+    - 1386
+    - 1549
+  label: 產後惡露不下方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d5d6
+    span:
+    - body
+    - 1459
+    - 1549
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d6
+    span:
+    - body
+    - 1549
+    - 1965
+  label: 產後惡露上攻心痛方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d6d6
+    span:
+    - body
+    - 1672
+    - 1965
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d7
+    span:
+    - body
+    - 1965
+    - 2178
+  label: 產後惡露腹痛方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d7d6
+    span:
+    - body
+    - 2024
+    - 2178
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d8
+    span:
+    - body
+    - 2178
+    - 2410
+  label: 產後兒枕腹痛方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d8d6
+    span:
+    - body
+    - 2280
+    - 2410
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d9
+    span:
+    - body
+    - 2410
+    - 2799
+  label: 產後小腹痛方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d9d6
+    span:
+    - body
+    - 2521
+    - 2689
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d9d7
+    span:
+    - body
+    - 2689
+    - 2799
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d10
+    span:
+    - body
+    - 2799
+    - 3039
+  label: 產後寒疝腹痛方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d10d6
+    span:
+    - body
+    - 2897
+    - 3039
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d11
+    span:
+    - body
+    - 3039
+    - 3423
+  label: 產後兩脅脹痛方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d11d6
+    span:
+    - body
+    - 3156
+    - 3423
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d12
+    span:
+    - body
+    - 3423
+    - 3841
+  label: 產後積聚癥塊方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d12d6
+    span:
+    - body
+    - 3559
+    - 3841
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d13
+    span:
+    - body
+    - 3841
+    - 4019
+  label: 產後血瘕方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d14
+    span:
+    - body
+    - 4019
+    - 4126
+  label: 產後余血奔心煩悶方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23d15
+    span:
+    - body
+    - 4126
+    - 4696
+  label: 產後虛煩發熱方論第十四原無論
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ei039_jc_020-d23.d15d4
+    span:
+    - body
+    - 4351
+    - 4696
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.h1s1
+    span:
+    - body
+    - 0
+    - 4345
+  label: 卷二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d2
+    span:
+    - body
+    - 4
+    - 363
+  label: 產後口乾痞悶方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d2d6
+    span:
+    - body
+    - 166
+    - 333
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d2d7
+    span:
+    - body
+    - 333
+    - 363
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d3
+    span:
+    - body
+    - 363
+    - 675
+  label: 產後血渴方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d3d4
+    span:
+    - body
+    - 454
+    - 524
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d3d5
+    span:
+    - body
+    - 524
+    - 675
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d4
+    span:
+    - body
+    - 675
+    - 1167
+  label: 產後乍寒乍熱方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d4d6
+    span:
+    - body
+    - 864
+    - 1099
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d4d7
+    span:
+    - body
+    - 1099
+    - 1167
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d5
+    span:
+    - body
+    - 1167
+    - 1745
+  label: 產後瘧疾方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d5d24
+    span:
+    - body
+    - 1710
+    - 1745
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d6
+    span:
+    - body
+    - 1745
+    - 2424
+  label: 產後蓐勞方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d6d28
+    span:
+    - body
+    - 2370
+    - 2424
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d7
+    span:
+    - body
+    - 2424
+    - 2687
+  label: 產後虛羸方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d8
+    span:
+    - body
+    - 2687
+    - 2869
+  label: 產後風虛冷勞方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d9
+    span:
+    - body
+    - 2869
+    - 3084
+  label: 產後腹脹嘔吐方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d9d6
+    span:
+    - body
+    - 2960
+    - 3063
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d9d7
+    span:
+    - body
+    - 3063
+    - 3084
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d10
+    span:
+    - body
+    - 3084
+    - 3664
+  label: 產後嘔逆不食方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d10d6
+    span:
+    - body
+    - 3253
+    - 3474
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d10d7
+    span:
+    - body
+    - 3474
+    - 3664
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24d11
+    span:
+    - body
+    - 3664
+    - 4345
+  label: 產後霍亂方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d11d6
+    span:
+    - body
+    - 3736
+    - 4008
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR3ei039_jc_021-d24.d11d7
+    span:
+    - body
+    - 4008
+    - 4345
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.h1s1
+    span:
+    - body
+    - 0
+    - 4507
+  label: 卷二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d2
+    span:
+    - body
+    - 4
+    - 444
+  label: 產後寒熱方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d3
+    span:
+    - body
+    - 444
+    - 750
+  label: 產後頭痛方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d3d6
+    span:
+    - body
+    - 542
+    - 705
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d3d7
+    span:
+    - body
+    - 705
+    - 750
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d4
+    span:
+    - body
+    - 750
+    - 1406
+  label: 產後咳嗽方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d4d6
+    span:
+    - body
+    - 959
+    - 1298
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d4d7
+    span:
+    - body
+    - 1298
+    - 1406
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d5
+    span:
+    - body
+    - 1406
+    - 1764
+  label: 產後喉中氣急喘促方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d5d6
+    span:
+    - body
+    - 1556
+    - 1732
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d5d7
+    span:
+    - body
+    - 1732
+    - 1764
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d6
+    span:
+    - body
+    - 1764
+    - 1903
+  label: 產後口鼻黑鼻衄方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d7
+    span:
+    - body
+    - 1903
+    - 2085
+  label: 產後咳噫方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d8
+    span:
+    - body
+    - 2085
+    - 2471
+  label: 產後血崩方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d8d6
+    span:
+    - body
+    - 2211
+    - 2386
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d8d7
+    span:
+    - body
+    - 2386
+    - 2471
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d9
+    span:
+    - body
+    - 2471
+    - 2764
+  label: 產後月水不調方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d9d6
+    span:
+    - body
+    - 2618
+    - 2715
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d9d7
+    span:
+    - body
+    - 2715
+    - 2764
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d10
+    span:
+    - body
+    - 2764
+    - 3017
+  label: 產後月水不通方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d10d6
+    span:
+    - body
+    - 2894
+    - 3017
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d11
+    span:
+    - body
+    - 3017
+    - 3504
+  label: 產後四肢浮腫方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d11d6
+    span:
+    - body
+    - 3134
+    - 3483
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d11d7
+    span:
+    - body
+    - 3483
+    - 3504
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d12
+    span:
+    - body
+    - 3504
+    - 3844
+  label: 產後腹痛瀉利方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d12d6
+    span:
+    - body
+    - 3633
+    - 3794
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25.d12d7
+    span:
+    - body
+    - 3794
+    - 3844
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR3ei039_jc_022-d25d13
+    span:
+    - body
+    - 3844
+    - 4507
+  label: 產後赤白痢方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.h1s1
+    span:
+    - body
+    - 0
+    - 4594
+  label: 卷二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d2
+    span:
+    - body
+    - 4
+    - 269
+  label: 產後痢疾作渴方論第一
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d2d6
+    span:
+    - body
+    - 99
+    - 193
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d2d7
+    span:
+    - body
+    - 193
+    - 269
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d3
+    span:
+    - body
+    - 269
+    - 751
+  label: 產後大便秘澀方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d3d6
+    span:
+    - body
+    - 445
+    - 717
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d3d7
+    span:
+    - body
+    - 717
+    - 751
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d4
+    span:
+    - body
+    - 751
+    - 886
+  label: 產後大小便不通方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d4d6
+    span:
+    - body
+    - 796
+    - 886
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d5
+    span:
+    - body
+    - 886
+    - 1251
+  label: 產後遺糞方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d5d6
+    span:
+    - body
+    - 988
+    - 1081
+  label: 附治驗小便出屎方藥附
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d5d7
+    span:
+    - body
+    - 1081
+    - 1251
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d6
+    span:
+    - body
+    - 1251
+    - 1561
+  label: 產後諸淋方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d6d6
+    span:
+    - body
+    - 1345
+    - 1526
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d6d7
+    span:
+    - body
+    - 1526
+    - 1561
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d7
+    span:
+    - body
+    - 1561
+    - 1894
+  label: 產後小便頻數方論第六
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d7d6
+    span:
+    - body
+    - 1653
+    - 1843
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d7d7
+    span:
+    - body
+    - 1843
+    - 1894
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d8
+    span:
+    - body
+    - 1894
+    - 2205
+  label: 產後小便不禁方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d8d6
+    span:
+    - body
+    - 1995
+    - 2153
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d8d7
+    span:
+    - body
+    - 2153
+    - 2205
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d9
+    span:
+    - body
+    - 2205
+    - 2921
+  label: 產後小便出血方論第八
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d9d6
+    span:
+    - body
+    - 2418
+    - 2921
+  label: 附治驗方藥大便下血附
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d10
+    span:
+    - body
+    - 2921
+    - 3437
+  label: 產後陰脫玉門不閉方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d10d6
+    span:
+    - body
+    - 3032
+    - 3374
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d10d7
+    span:
+    - body
+    - 3374
+    - 3437
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d11
+    span:
+    - body
+    - 3437
+    - 3654
+  label: 婦人陰蝕疳方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d11d6
+    span:
+    - body
+    - 3539
+    - 3622
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d11d7
+    span:
+    - body
+    - 3622
+    - 3654
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d12
+    span:
+    - body
+    - 3654
+    - 3948
+  label: 產後乳少或止方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d12d6
+    span:
+    - body
+    - 3803
+    - 3902
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d12d7
+    span:
+    - body
+    - 3902
+    - 3948
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d13
+    span:
+    - body
+    - 3948
+    - 4188
+  label: 產後乳出方論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26.d13d6
+    span:
+    - body
+    - 4043
+    - 4188
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d14
+    span:
+    - body
+    - 4188
+    - 4293
+  label: 產後吹乳方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ei039_jc_023-d26d15
+    span:
+    - body
+    - 4293
+    - 4594
+  label: 產婦妒乳方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.h1s1
+    span:
+    - body
+    - 0
+    - 21024
+  label: 卷二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d2
+    span:
+    - body
+    - 4
+    - 2745
+  label: 瘡瘍門
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d2d2
+    span:
+    - body
+    - 7
+    - 177
+  label: 婦人繭唇方論第一諸骨木梗等咽見口齒類要
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d2d3
+    span:
+    - body
+    - 177
+    - 1590
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d2d4
+    span:
+    - body
+    - 1590
+    - 2745
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d3
+    span:
+    - body
+    - 2745
+    - 4143
+  label: 婦人耳聄痛方論第二
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d3d4
+    span:
+    - body
+    - 2919
+    - 3665
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d3d5
+    span:
+    - body
+    - 3665
+    - 4143
+  label: 附治驗方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d4
+    span:
+    - body
+    - 4143
+    - 6337
+  label: 婦人瘰癧方論第三
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d4d4
+    span:
+    - body
+    - 4432
+    - 5143
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d4d5
+    span:
+    - body
+    - 5143
+    - 6337
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d5
+    span:
+    - body
+    - 6337
+    - 8376
+  label: 婦人結核方論第四
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d5d4
+    span:
+    - body
+    - 6628
+    - 7507
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d5d5
+    span:
+    - body
+    - 7507
+    - 8376
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d6
+    span:
+    - body
+    - 8376
+    - 10342
+  label: 婦人流注方論第五
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d6d4
+    span:
+    - body
+    - 8744
+    - 9483
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d6d5
+    span:
+    - body
+    - 9483
+    - 10342
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d7
+    span:
+    - body
+    - 10342
+    - 11777
+  label: 婦人血風瘡論第六
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d7d4
+    span:
+    - body
+    - 10630
+    - 11175
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d7d5
+    span:
+    - body
+    - 11175
+    - 11777
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d8
+    span:
+    - body
+    - 11777
+    - 14001
+  label: 婦人赤白遊風方論第七
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d8d4
+    span:
+    - body
+    - 11944
+    - 12329
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d8d5
+    span:
+    - body
+    - 12329
+    - 12789
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d8d6
+    span:
+    - body
+    - 12789
+    - 13551
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d8d7
+    span:
+    - body
+    - 13551
+    - 14001
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d9
+    span:
+    - body
+    - 14001
+    - 14888
+  label: 婦人鶴膝風方論第九
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d9d4
+    span:
+    - body
+    - 14239
+    - 14573
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d9d5
+    span:
+    - body
+    - 14573
+    - 14888
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d10
+    span:
+    - body
+    - 14888
+    - 16196
+  label: 婦人下注臁瘡方論第十
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d10d4
+    span:
+    - body
+    - 15158
+    - 15622
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d10d5
+    span:
+    - body
+    - 15622
+    - 16196
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d11
+    span:
+    - body
+    - 16196
+    - 17232
+  label: 婦人足跟瘡腫方論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d11d4
+    span:
+    - body
+    - 16410
+    - 16812
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d11d5
+    span:
+    - body
+    - 16812
+    - 17232
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d12
+    span:
+    - body
+    - 17232
+    - 18598
+  label: 婦人肺癰方論第十二仍參外科樞要
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d12d4
+    span:
+    - body
+    - 17688
+    - 17999
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d12d5
+    span:
+    - body
+    - 17999
+    - 18598
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d13
+    span:
+    - body
+    - 18598
+    - 19625
+  label: 婦人腸癰方論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d13d4
+    span:
+    - body
+    - 18761
+    - 19012
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d13d5
+    span:
+    - body
+    - 19012
+    - 19625
+  label: 附方藥
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27d14
+    span:
+    - body
+    - 19625
+    - 21024
+  label: 婦人乳癰乳岩方論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d14d4
+    span:
+    - body
+    - 19914
+    - 20667
+  label: 附治驗
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR3ei039_jc_024-d27.d14d5
+    span:
+    - body
+    - 20667
+    - 21024
+  label: 附方藥
+  type: section
+  level: 3
+hash: sha256:da4d2c47f9752906ca6cbca99088125e4257a153113ec39ec1a60f558a853582
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
